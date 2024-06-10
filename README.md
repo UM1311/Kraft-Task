@@ -10,17 +10,17 @@ Kraft Task is a weather application built using ViteReact. It provides users wit
 
 To run the application locally, follow these steps:
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**: <br/>
 git clone https://github.com/UM1311/Kraft-Task.git
-2. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory**:<br/>
 cd Kraft-Task
-3. **Install Dependencies**:
-Ensure you have Node.js and npm installed.
+3. **Install Dependencies**:<br/>
+Ensure you have Node.js and npm installed.<br/>
 npm install
-4. **Start the Development Server**:
-npm start
+4. **Start the Development Server**:<br/>
+npm start <br/>
 This command will start the development server and launch the application in your default web browser.
 
-**Known Issues and Limitations**
-1.The application may encounter occasional inaccuracies in weather data due to limitations or errors in the OpenWeather API.
-2.Further enhancements such as improved error handling and additional features like location search could be implemented in future updates.
+**Known Issues and Limitations**<br/>
+1. The application may encounter occasional inaccuracies in weather data due to limitations or errors in the OpenWeather API.<br/>
+2. Further enhancements such as improved error handling and additional features like location search could be implemented in future updates.
