@@ -18,7 +18,7 @@ cd Kraft-Task
 Ensure you have Node.js and npm installed.<br/>
 npm install
 4. **Start the Development Server**:<br/>
-npm start <br/>
+npm run dev <br/>
 This command will start the development server and launch the application in your default web browser.
 
 **Known Issues and Limitations**<br/>
