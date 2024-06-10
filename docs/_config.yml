@@ -1,0 +1,8 @@
+baseurl: "/"
+title: "My Jekyll Site"
+description: "A simple Jekyll site"
+theme: jekyll-theme-primer
+
+# If you are using GitHub Pages, you can specify the source and destination
+source: "."
+destination: "./_site"
